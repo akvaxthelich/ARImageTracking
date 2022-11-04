@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4962704668071680567
+  m_GuidHigh: 13583577557499461046
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4692294178753790113
+      m_GuidHigh: 13501545211770145952
+    m_SerializedTextureGuid:
+      m_GuidLow: 8283447764686140981
+      m_GuidHigh: 13705101952051376954
+    m_Size: {x: 0.032, y: 0.053501315}
+    m_SpecifySize: 1
+    m_Name: SakeCup
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5253494192975977468
+      m_GuidHigh: 6056502541569516453
+    m_SerializedTextureGuid:
+      m_GuidLow: 16988724386090874269
+      m_GuidHigh: 16750959518016246282
+    m_Size: {x: 0.032, y: 0.053600002}
+    m_SpecifySize: 1
+    m_Name: Moon
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5519442239298172198
+      m_GuidHigh: 18371231259033684630
+    m_SerializedTextureGuid:
+      m_GuidLow: 7031250093355441302
+      m_GuidHigh: 10447606712554500457
+    m_Size: {x: 0.032, y: 0.05337533}
+    m_SpecifySize: 1
+    m_Name: Curtain
+    m_Texture: {fileID: 0}
